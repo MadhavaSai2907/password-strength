@@ -12,4 +12,4 @@ In DevOps, security is a crucial aspect, and ensuring strong passwords is essent
 ○       Contains at least one special character (e.g., !, @, #, $, %).
 ●       The function should return a boolean value indicating whether the password meets the criteria.
 ●       Write a script that takes user input for a password and calls the check_password_strength function to validate it.
-●       Provide appropriate feedback to the user based on the strength of the password. 
+●       Provide appropriate feedback to the user based on the strength of the password.
