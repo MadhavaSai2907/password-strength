@@ -39,7 +39,7 @@ def main():
         print("--> At least one uppercase letter")
         print("--> At least one lowercase letter")
         print("--> At least one digit (0–9)")
-        print("--> At least one special character (`^!@#$%&*()-_=+[]{};:,<.>/?)")
+        print("--> At least one special character `^!@#$%&*()-_=+[]{};:,<.>/?dfdf")
 
 
 if __name__ == "__main__":
